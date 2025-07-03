@@ -6,7 +6,7 @@ This is a static site built using HTML and CSS, showcasing my academic backgroun
 ## 📄 Live Preview
 
 Visit the website here:  
-https://AlirezaAz.github.io/Portfolio/
+[https://AlirezaAz.github.io/Portfolio/](https://alirezaaz.github.io/Portfolio/)
 
 
 ---
