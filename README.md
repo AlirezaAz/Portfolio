@@ -26,3 +26,42 @@ This website includes:
 - Ongoing & Pending Projects
 - Curriculum Vitae (LaTeX PDF embedded)
 
+---
+
+## 🚀 Installation & Deployment
+
+- Run Locally  
+  1. `git clone https://github.com/yourusername/yourrepo.git`  
+  2. `cd yourrepo`  
+  3. Open `index.html` in your browser
+  4. Make sure style.css and cv.pdf and the images folder are inside the same directory.
+
+---
+
+## 📂 Data & Assets
+
+- HTML/CSS in the repo root  
+- Profile image: `/images/avatar.jpg`  
+- CV PDF: `/cv.pdf`  
+- No external datasets
+
+---
+
+## 🛠️ Technical Stack
+
+- HTML/CSS – core markup & styling  
+- Jamstack – static-site generator template 
+- LaTeX – generated my CV for formatting  
+
+---
+
+## 🔧 Why I Used Eeach Frameworks & Tools
+
+- HTML/CSS
+  - kept it simple and clean 
+- Static Site Generator template
+  - saved time, easy to customize  
+- Jamstack workflow
+  - instant deploys, fast page loads, git‑driven updates  
+- LaTeX for CV
+  - clean, professional layout 
