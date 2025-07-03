@@ -43,7 +43,6 @@ This website includes:
 - HTML/CSS in the repo root  
 - Profile image: `/images/avatar.jpg`  
 - CV PDF: `/cv.pdf`  
-- No external datasets
 
 ---
 
